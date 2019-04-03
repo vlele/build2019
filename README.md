@@ -1,7 +1,4 @@
-## Microservices AKS
-### T06 - Microservices with Azure Kubernetes Services (AKS)
-### VSLive March 5 2019, Las Vegas - 9:30 AM
-### By Vishwas Lele & Gautam Shah
+## Code for BUILD 2019 
 
 All .ps1 files can be executed in PowerShell ISE or PowerShell Command Prompt. PowerShell comes installed on Windows Desktop and Server. Go to Windows search and type "PowerShell ISE". Alternatively you can install and use PowerShell Extension in Visual Studio Code.
 
